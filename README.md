@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sh1xz
+- 👀 I’m interested in pentest,offensive security and reversing eng 
+- 🌱 I’m currently learning mobile pentesting and reversing
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Twitter: @0xsh1xz | mailto://0xsh1xz[at]gmail.com
